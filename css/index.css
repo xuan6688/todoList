@@ -1,0 +1,151 @@
+/* 当屏幕尺寸大于620px */
+
+@media screen and (min-width:620px) {
+    section {
+        width: 600px;
+        padding: 0 10px;
+    }
+}
+
+
+/* 小于620 */
+
+@media screen and (max-width:619px) {
+    section {
+        width: 95%;
+        padding: 0 2%;
+    }
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    background-color: #CDCDCD;
+}
+
+ol,
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+input:focus {
+    outline: none;
+}
+
+header {
+    height: 50px;
+    background-color: #333;
+}
+
+section {
+    margin: 0 auto;
+}
+
+label {
+    float: left;
+    width: 100px;
+    line-height: 50px;
+    font-size: 24px;
+    color: #fff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+}
+
+#title {
+    float: right;
+    width: 60%;
+    height: 24px;
+    margin-top: 12px;
+    text-indent: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 0 rgba(255, 255, 255, 0.24);
+    border: 0;
+}
+
+h2 {
+    position: relative;
+}
+
+#todocount,
+#donecount {
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    display: block;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    padding: 0 5px;
+    border-radius: 20px;
+    font-size: 16px;
+    background-color: #E6E6FA;
+    color: #666;
+}
+
+li {
+    position: relative;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 45px;
+    margin-bottom: 8px;
+    border-left: 5px solid #629A9C;
+    border-radius: 3px;
+    background-color: #fff;
+}
+
+li input {
+    position: absolute;
+    top: 2px;
+    left: 8px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+li p {
+    position: relative;
+    margin: 0;
+    cursor: move;
+    /* background-color: pink; */
+}
+
+li p input {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    width: 98%;
+    /* background-color: pink; */
+}
+
+li a {
+    position: absolute;
+    top: 2px;
+    right: 8px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 5px double #fff;
+    background: #ccc;
+}
+
+ul li {
+    border-left: 5px solid #999;
+    opacity: .5;
+}
+
+footer {
+    color: #666;
+    font-size: 14px;
+    text-align: center;
+    background-color: #fff;
+}
+
+footer .clearAll {
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 16px;
+    color: #999;
+    cursor: pointer;
+}
