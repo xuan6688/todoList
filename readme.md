@@ -13,17 +13,17 @@
 
 - 添加功能
 
-![1602126804842](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126804842.png)
+  ![add01](https://github.com/xuan6688/todoList/raw/master/typora-user-images/1602126804842.png)
 
-![1602126826690](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126826690.png)
+  ![add02](https://raw.githubusercontent.com/xuan6688/todoList/master/typora-user-images/1602126826690.png)
 
 - 修改功能展示
 
-  ![1602126858215](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126858215.png)
+- ![1602126858215](https://github.com/xuan6688/todoList/raw/master/typora-user-images/1602126858215.png)
 
 - 删除功能
 
-  ![1602126893508](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126893508.png)
+  ![1602126893508](https://github.com/xuan6688/todoList/raw/master/typora-user-images/1602126893508.png)
 
 #### 总结
 
