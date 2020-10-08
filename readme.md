@@ -19,11 +19,11 @@
 
 - 修改功能展示
 
-  ![1602126858215](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126858215.png)
+![1602126858215](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126858215.png)
 
 - 删除功能
 
-  ![1602126893508](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126893508.png)
+![1602126893508](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126893508.png)
 
 #### 总结
 
