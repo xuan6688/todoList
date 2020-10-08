@@ -15,11 +15,11 @@
 
   ![add01](https://github.com/xuan6688/todoList/raw/master/typora-user-images/1602126804842.png)
 
-  ![add02](https://raw.githubusercontent.com/xuan6688/todoList/master/typora-user-images/1602126826690.png)
+  ![add02](https://github.com/xuan6688/todoList/raw/master/typora-user-images/1602126826690.png)
 
 - 修改功能展示
 
-- ![1602126858215](https://github.com/xuan6688/todoList/raw/master/typora-user-images/1602126858215.png)
+  ![1602126858215](https://github.com/xuan6688/todoList/raw/master/typora-user-images/1602126858215.png)
 
 - 删除功能
 
