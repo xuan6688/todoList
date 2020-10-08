@@ -13,9 +13,9 @@
 
 - 添加功能
 
-![1602126804842](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126804842.png)
+  ![1602126804842](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126804842.png)
 
-![1602126826690](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126826690.png)
+  ![1602126826690](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126826690.png)
 
 - 修改功能展示
 
