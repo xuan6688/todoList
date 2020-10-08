@@ -13,9 +13,15 @@
 
 - 添加功能
 
+<<<<<<< HEAD
   ![add01](https://github.com/xuan6688/todoList/raw/master/typora-user-images/1602126804842.png)
 
   ![add02](https://raw.githubusercontent.com/xuan6688/todoList/master/typora-user-images/1602126826690.png)
+=======
+  ![1602126804842](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126804842.png)
+
+  ![1602126826690](https://github.com/xuan6688/todoList/blob/master/typora-user-images/1602126826690.png)
+>>>>>>> fea78501aff17b13e3d5f7acf8a17c150873e15a
 
 - 修改功能展示
 
